@@ -1,0 +1,2 @@
+#!/bin/bash
+This repository contains Shell Basics projects for the ALCHE Software Engineering program.
